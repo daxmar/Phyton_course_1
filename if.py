@@ -1,3 +1,3 @@
-umur = 20
-if umur > 18:
-    print "Sudah beranjak dewasa"
+age = 20
+if age > 18:
+    print "Was Adult"
