@@ -1,20 +1,20 @@
-umur = 10
-gravitasi = 9.8
-nama = "Peter Parker"
-bukan_dosen = True
+age = 10
+gravity = 9.8
+Name = "Peter Parker"
+have_name = True
 superhero = ["Hulk", "Iron Man", "Captain America", "Spiderman", "Thor"]
 
-print type(umur)
-print "umur: ", umur
+print type(age)
+print "age: ", age , "years old"
 
-print type(gravitasi)
-print "gravitasi: ", gravitasi
+print type(gravity)
+print "gravity: ", gravity
 
-print type(nama)
-print "nama: ", nama
+print type(Name)
+print "nama: ", Name
 
-print type(bukan_dosen)
-print "bukan dosen: ", bukan_dosen
+print type(have_name)
+print "have name: ", have_name
 
 print type(superhero)
 print "superhero - 0: ", superhero[0]
