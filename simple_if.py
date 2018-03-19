@@ -1,5 +1,5 @@
-apakah_dosen = False
-if (apakah_dosen):
-    print "Boleh mengakses halaman dosen..."
+Student = False
+if (Student):
+    print "Have Access"
 else:
-    print "Tidak boleh mengakses halaman dosen, mohon keluar..."
+    print "Don't have Access"
