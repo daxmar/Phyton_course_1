@@ -1,11 +1,11 @@
-umur = 37
-if umur > 18 and umur < 30:
-    print "Sudah beranjak dewasa"
-elif umur > 30 and umur < 45:
-    print "Masa - masa emas"
-elif umur > 45 and umur < 55:
-    print "Memasuki masa paruh baya"
-elif umur > 55:
-    print "Masa - masa manula"
+age = 37
+if age > 18 and age < 30:
+    print "Adult"
+elif age > 30 and age < 45:
+    print "Golden Age"
+elif age > 45 and age < 55:
+    print "Mature"
+elif age > 55:
+    print "Post Mature"
 else:
-    print "Masih dibawah umur"
+    print "Children"
